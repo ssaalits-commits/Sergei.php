@@ -1,9 +1,9 @@
-Sergei Teateriba
-Kirjeldus
+#Sergei Teateriba
+##Kirjeldus
 See on wordpress plugin mis lisab sinu valitud värvi teateriba
-Funktsioonid
+##Funktsioonid
 Paneb sinu valitud värviga taust teateriba veebilehe ülaosas
-Paigaldamine
+##Paigaldamine
 Kopeeri fail Sergei.php kasuta wp-content/plugins/ ja aktiveeri plugin Wordpressis
-Autor
+##Autor
 Sergei Säälits
